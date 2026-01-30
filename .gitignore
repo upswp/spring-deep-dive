@@ -71,3 +71,7 @@ Desktop.ini
 # Spring Boot
 application-local.yml
 application-local.properties
+
+# Claude Code
+claude.md
+.claude/

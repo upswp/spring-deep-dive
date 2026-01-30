@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: with-aop
+  aop:
+    proxy-target-class: true  # CGLIB 프록시 사용 (Spring Boot 기본값)
